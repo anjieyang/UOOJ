@@ -1,0 +1,4 @@
+# 邮箱地址黑名单
+uooj:
+  blacklist:
+    - "@example.com"

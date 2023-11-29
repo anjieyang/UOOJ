@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="uooj-api" />
+        <module name="uooj-judgeServer" />
+        <module name="uooj-backend" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hoj-judgeServer" target="1.8" />
+      <module name="hoj-springboot" target="1.8" />
+      <module name="uooj-api (1) (top.hcode)" target="1.8" />
+      <module name="uooj-backend (1) (top.hcode)" target="1.8" />
+      <module name="uooj-backend (2) (com.anjieyang.uooj)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
